@@ -2,11 +2,7 @@ package com.udacity.gradle.builditbigger;
 
 import android.util.Log;
 
-import com.udacity.gradle.builditbigger.EndpointsAsyncTask;
-import com.udacity.gradle.builditbigger.MainActivity;
-
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 import java.util.concurrent.TimeUnit;
 
